@@ -1,6 +1,6 @@
 {
   "name": "VNX",
-  "description": "Deploy VNC to Heroku.",
+  "description": "Deploy Template to Heroku.",
   "keywords": ["VNX", "Docker"],
   "env": {
   },
