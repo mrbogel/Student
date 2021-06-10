@@ -1,6 +1,6 @@
 {
-  "name": "VNX",
-  "description": "Deploy Template to Heroku.",
+  "name": "dzbogel",
+  "description": "Deploy Template to Heroku by bogel.",
   "keywords": ["VNX", "Docker"],
   "env": {
   },
