@@ -8,4 +8,4 @@ aktifkan juga lonceng nya, biar gak ketinggalan video yang lain.
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mrbogel/Student)
 
 
-Terima kasih buat yang udah Subscribe.
+Terima kasih buat yang udah Subscribe ...
